@@ -36,7 +36,7 @@
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/7.png" width="200" height="100">&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/8.png" width="200" height="90">   
 &emsp;&emsp;&emsp;RGB在[0,1]區間    
 &emsp;&emsp;II. L*a*b to RGB:  
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/9.png" width="450" height="350">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/9.png" width="450" height="300">   
 ## Experimental_results
 &emsp;(1) 前置作業 :      
 &emsp;&emsp;(一) 作業系統 : Windows 10 家用版     
