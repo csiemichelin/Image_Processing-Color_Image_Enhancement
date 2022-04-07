@@ -31,9 +31,9 @@
 &emsp;(1) 目的 : 將RGB轉成L*a*b時，一併優化圖像，然後轉回RGB以輸出RGB轉為XYZ，此處以LAB代表XYZ。   
 &emsp;(2) 公式 :   
 &emsp;&emsp;I. RGB to L*a*b:   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/5.png" width="250" height="70">   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/6.png" width="300" height="70">   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/7.png" width="200" height="70">&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/8.png" width="200" height="70">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/5.png" width="270" height="90">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/6.png" width="330" height="90">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/7.png" width="200" height="90">&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/8.png" width="200" height="90">   
 &emsp;&emsp;&emsp;RGB在[0,1]區間    
 &emsp;&emsp;II. L*a*b to RGB:  
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/9.png" width="500" height="500">   
