@@ -22,7 +22,7 @@
 &emsp;&emsp;&emsp;RGB在[0,1]區間    
 &emsp;&emsp;II. HSI to RGB:   
 &emsp;&emsp;&emsp;(一) RG sector(0 <= H < 120)     
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/2.png" width="200" height="150">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/2.png" width="150" height="120">   
 &emsp;&emsp;&emsp;(二) RG sector(120 <= H < 240)   
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/3.png" width="200" height="150">   
 &emsp;&emsp;&emsp;(三) RG sector(240 <= H < 360)   
