@@ -18,18 +18,25 @@
 &emsp;(1) 目的 : 將RGB轉成HSI後，對I做優化，然後轉回RGB以輸出。   
 &emsp;(2) 公式 :     
 &emsp;&emsp;I. RGB to HSI:    
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/1.png" width="200" height="200">    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/1.png" width="200" height="200">      
 &emsp;&emsp;&emsp;RGB在[0,1]區間    
 &emsp;&emsp;II. HSI to RGB:   
 &emsp;&emsp;&emsp;(一) RG sector(0 <= H < 120)     
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/2.png" width="200" height="150">   
 &emsp;&emsp;&emsp;(二) RG sector(120 <= H < 240)   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/3.png" width="200" height="150">   
 &emsp;&emsp;&emsp;(三) RG sector(240 <= H < 360)   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/4.png" width="200" height="150">    
 **3. L*a*b**   
 &emsp;(1) 目的 : 將RGB轉成L*a*b時，一併優化圖像，然後轉回RGB以輸出RGB轉為XYZ，此處以LAB代表XYZ。   
 &emsp;(2) 公式 :   
-&emsp;&emsp;I. RGB to L*a*b:    
+&emsp;&emsp;I. RGB to L*a*b:   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/5.png" width="250" height="70">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/6.png" width="300" height="70">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/7.png" width="200" height="70">&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/8.png" width="200" height="70">   
 &emsp;&emsp;&emsp;RGB在[0,1]區間    
 &emsp;&emsp;II. L*a*b to RGB:  
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/9.png" width="500" height="500">   
 ## Experimental_results
 &emsp;(1) 前置作業 :      
 &emsp;&emsp;(一) 作業系統 : Windows 10 家用版     
