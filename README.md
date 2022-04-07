@@ -24,9 +24,9 @@
 &emsp;&emsp;&emsp;(一) RG sector(0 <= H < 120)     
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/2.png" width="150" height="120">   
 &emsp;&emsp;&emsp;(二) RG sector(120 <= H < 240)   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/3.png" width="200" height="150">   
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/3.png" width="150" height="130">   
 &emsp;&emsp;&emsp;(三) RG sector(240 <= H < 360)   
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/4.png" width="200" height="150">    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/4.png" width="150" height="130">    
 **3. L*a*b**   
 &emsp;(1) 目的 : 將RGB轉成L*a*b時，一併優化圖像，然後轉回RGB以輸出RGB轉為XYZ，此處以LAB代表XYZ。   
 &emsp;(2) 公式 :   
