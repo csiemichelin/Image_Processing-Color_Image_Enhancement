@@ -18,7 +18,7 @@
 &emsp;(1) 目的 : 將RGB轉成HSI後，對I做優化，然後轉回RGB以輸出。   
 &emsp;(2) 公式 :     
 &emsp;&emsp;I. RGB to HSI:    
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/1.png" width="250" height="250">    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/tech_image/1.png" width="200" height="200">    
 &emsp;&emsp;&emsp;RGB在[0,1]區間    
 &emsp;&emsp;II. HSI to RGB:   
 &emsp;&emsp;&emsp;(一) RG sector(0 <= H < 120)     
