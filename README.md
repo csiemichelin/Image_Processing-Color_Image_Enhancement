@@ -48,7 +48,7 @@
 &emsp;&emsp;(一) aloe.jpg     
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/1.jpg" width="550" height="150">   
 &emsp;&emsp;(二) church.jpg     
-&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/2.jpg" width="420" height="150">&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/3.jpg" width="120" height="150">     
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/2.jpg" width="420" height="150"><img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/3.jpg" width="140" height="150">     
 &emsp;&emsp;(三) house.jpg    
 &emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/4.jpg" width="420" height="150">    
 &emsp;&emsp;(四) kitchen.jpg  
