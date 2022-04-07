@@ -45,7 +45,11 @@
 &emsp;&emsp;(四) 環境架設 :        
 &emsp;&emsp;&emsp;https://forum.gamer.com.tw/C.php?bsn=60292&snA=6494   
 &emsp;(2) Color_Image_Enhancement(左至右依序為:原圖,RGB,HIS,L*a*b*)   
-&emsp;&emsp;(一) aloe.jpg       
+&emsp;&emsp;(一) aloe.jpg     
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/1.png" width="450" height="150">   
 &emsp;&emsp;(二) church.jpg     
-&emsp;&emsp;(三) house.jpg        
-&emsp;&emsp;(四) kitchen.jpg     
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/2.png" width="450" height="150">&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/3.png" width="150" height="150">     
+&emsp;&emsp;(三) house.jpg    
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/4.png" width="450" height="150">  
+&emsp;&emsp;(四) kitchen.jpg  
+&emsp;&emsp;&emsp;<img src="https://github.com/csiemichelin/Image_Processing-Color_Image_Enhancement/blob/main/res_image/5.png" width="450" height="150">  
